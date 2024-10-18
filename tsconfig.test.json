@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+      "types": ["jest"] // or "mocha" if you're using Mocha
+    }
+  }
